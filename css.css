@@ -600,7 +600,7 @@ h1 img {
     width: 50px;
 }
 
-@media screen and (max-width: 768px) {
+@media all and (max-width: 960px) {
     .body_aria {
         background-color: #510a73;
         /*box-shadow*/
@@ -819,7 +819,7 @@ h1 img {
     }
 }
 
-@media screen and (max-width:768px) {
+@media all and (max-width:960px) {
     body {
         background: #000000;
         height: 1000px;
