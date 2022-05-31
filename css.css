@@ -610,8 +610,8 @@
     
     @media all and (max-width: 768px) {
         .pic2 {
-            width: 350px;
-            margin-left: 600px;
+            width: 340px;
+            margin-left: 100px;
         }
         .body_aria {
             background-color: #510a73;
@@ -627,7 +627,7 @@
             justify-content: center;
             width: 100%;
             margin: 0 auto;
-            padding-bottom: 180vh;
+            padding-bottom: 150vh;
             margin-bottom: 30vh;
             -webkit-transform: translateX(-5%);
             /* Chrome, Opera 15+, Safari 3.1+ */
@@ -740,11 +740,12 @@
             width: 317px;
             height: 55px;
         }
-        .crg2 {
-            font-size: 5px;
+        .logo p {
             color: #FFFFFF;
-            padding-top: 5px;
-            padding-right: 50px;
+            float: left;
+            font-size: 15px;
+            margin-left: 10px;
+            margin-top: -5px;
         }
         .ver {
             height: 55px;
@@ -805,7 +806,7 @@
             align-items: center;
             justify-content: center;
             margin-top: 300px;
-            margin-right: 200px;
+            margin-right: 230px;
             margin-bottom: 300px;
         }
         .pic1 img {
@@ -820,12 +821,12 @@
             margin-right: 70px;
         }
         .me h3 {
-            text-align: center;
+            margin-left: 100px;
         }
         .me p {
             font-size: 14px;
             font-weight: 30px;
-            margin-left: 70px;
+            margin-left: 50px;
         }
         .footer-fix {
             display: flex;
@@ -861,7 +862,7 @@
             color: #FFFFFF;
         }
         .add {
-            margin-left: 100px;
+            margin-left: 70px;
         }
         .header_aria {
             height: 80vh;
@@ -911,7 +912,7 @@
             color: #FFFFFF;
         }
         iframe {
-            margin-left: 0px;
+            margin-left: -50px;
         }
         .imgfr {
             -webkit-transform: translateY(-17%);
@@ -919,17 +920,17 @@
             -ms-transform: translateY(-17%);
             /* IE 9 */
             transform: translateY(-17%);
-            width: 350px;
-            margin-left: 600px;
+            width: 330px;
+            margin-left: 100px;
         }
         .succ {
             color: #FFFFFF;
-            font-size: 13px;
+            font-size: 14px;
             font-weight: 30px;
         }
         .sub h3 {
             color: rgb(214, 140, 153);
-            font-size: 13px;
+            font-size: 15px;
             font-weight: 30px;
         }
         .cradit {
