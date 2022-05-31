@@ -1054,17 +1054,17 @@
         }
         .succ {
             color: #FFFFFF;
-            font-size: 14px;
-            font-weight: 30px;
+            font-size: 13px;
+            font-weight: 50px;
         }
         .sub h3 {
             color: rgb(214, 140, 153);
-            font-size: 15px;
+            font-size: 14px;
             font-weight: 30px;
         }
         .cradit {
             margin-top: 20vh;
-            margin-left: 20px;
+            margin-left: -10px;
         }
         .click {
             color: white;
